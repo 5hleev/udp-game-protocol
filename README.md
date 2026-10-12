@@ -94,7 +94,7 @@ tests/        test_protocol.cpp
 docs/         Architecture_Design.md, Protocol_Specification.md
 ```
 
-## Работа с Git (GitVerse)
+## Работа с Git (GitHub)
 
 | Ветка                  | Содержимое |
 |------------------------|------------|
